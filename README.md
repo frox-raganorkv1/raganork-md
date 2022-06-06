@@ -21,4 +21,4 @@ Visit [Heroku status site](https://status.heroku.com) for more details
   <br>
 
 ## You can also use as a BGM bot. [Click here](https://github.com/souravkl11/raganork-md/wiki/Docs#how-to-set-up-bgm-bot)
-  //Raganork~6c23f4ac062727f7bac7fa8fc61298e0:4d724e49524f7966424c6f3d
+  
