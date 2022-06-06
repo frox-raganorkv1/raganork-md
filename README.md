@@ -21,4 +21,4 @@ Visit [Heroku status site](https://status.heroku.com) for more details
   <br>
 
 ## You can also use as a BGM bot. [Click here](https://github.com/souravkl11/raganork-md/wiki/Docs#how-to-set-up-bgm-bot)
-  
+  //https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fraganork-qr.herokuapp.com%2F&template=https%3A%2F%2Fgithub.com%2FPachimon4%2Fwhatsapp-bot.git 
